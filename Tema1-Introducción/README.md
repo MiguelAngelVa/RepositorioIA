@@ -1,4 +1,4 @@
-# Tem 1 Introduccion
+# Tema 1 Introduccion
 ## Documentacion 
 ### Miguel Angel Valencia 
 
