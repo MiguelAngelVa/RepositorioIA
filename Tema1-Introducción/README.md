@@ -23,6 +23,7 @@
 - Aprendizaje no supervisado = Agrupan datos
 - Aprendizaje por refuerzo es diferente a aprendizaje semi-supervisado
 - KNN: Clasificacion de datos en funcion de cercania de datos
+
 - Redes neuronales: Funciones matematicas que se pasan datos, se coordinan formando redes. Cuando son muchas capas y muchas neuronas, es lo que se conoce como Deep Learning (Aprendizaje supervisado).
 
 ### Video: ¿Qué es el Aprendizaje Supervisado y No Supervisado? | DotCSV
