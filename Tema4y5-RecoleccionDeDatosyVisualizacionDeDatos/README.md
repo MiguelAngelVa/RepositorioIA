@@ -1,3 +1,5 @@
+## Autores: Miguel Angel Valencia Ortiz - Yimer Felipe Lopez
+
 # Tema 4: RECOLECCIÓN DE DATOS
 La calidad de los datos determinan el exito del modelo
 QA/QC: Quality Assurance / Quality Control
